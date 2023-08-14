@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-]   'website',
+    'website',
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -78,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'elderco',
         'USER': 'root',
-        'PASSWORD': 'password123',
+        'PASSWORD': '123Momdad+',
         'HOST': 'localhost',
         'PORT': '3306',
     }
